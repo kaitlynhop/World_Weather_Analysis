@@ -6,7 +6,8 @@
   
 
 ### Resources
-Data source: [OpenWeatherMap.Org](https://openweathermap.org/)
+Data sources: [OpenWeatherMap.Org](https://openweathermap.org/)
+<br> [Google Maps](https://mapsplatform.google.com/)
 <br>Tools: Python, Jupyter Notebook, PANDAS, Matplotlib, Numpy, Statistics
 <br>
 
