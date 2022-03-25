@@ -1,16 +1,15 @@
 # World Weather Analysis 
 
 ## Overview
-
+In this project, 
 
 ### Purpose
   
 
 ### Resources
-Data sources: 
-<br> [OpenWeatherMap.Org](https://openweathermap.org/), [Google Maps](https://mapsplatform.google.com/)
-<br> 
-<br>Tools: Python, Jupyter Notebook, GMaps API, [Citipy](https://github.com/wingchen/citipy), Requests Library, OpenWeather API, PANDAS, Matplotlib, Numpy, Statistics
+<**>Data retrieval:<**> [OpenWeatherMap.Org](https://openweathermap.org/), [Google Maps](https://mapsplatform.google.com/)
+
+<**>Tools:<**> Python, Jupyter Notebook, GMaps API, [Citipy](https://github.com/wingchen/citipy), Requests Library, OpenWeather API, PANDAS, Matplotlib, Numpy, Statistics
 <br>
 
 
