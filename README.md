@@ -7,10 +7,10 @@
   
 
 ### Resources
-Data sources: [OpenWeatherMap.Org](https://openweathermap.org/)
-<br> [Google Maps](https://mapsplatform.google.com/)
-<br> [Citipy](https://github.com/wingchen/citipy)
-<br>Tools: Python, Jupyter Notebook, GMaps API, CitiPy, Requests Library, PANDAS, Matplotlib, Numpy, Statistics
+Data sources: 
+<br> [OpenWeatherMap.Org](https://openweathermap.org/), [Google Maps](https://mapsplatform.google.com/)
+<br> 
+<br>Tools: Python, Jupyter Notebook, GMaps API, [Citipy](https://github.com/wingchen/citipy), Requests Library, OpenWeather API, PANDAS, Matplotlib, Numpy, Statistics
 <br>
 
 

@@ -7,6 +7,8 @@ random_numbers.ipynb
 Untitled.ipynb
 Google_Nearby_Search.ipynb
 __init__.py
+#All .html files with API
+*.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
