@@ -4,10 +4,17 @@
 ### Purpose
 This purpose of this project was to create a pseudo-app that assimilated current weather analysis for locations for users to filter by temperature preference to view ideal travel locations with hotel recommendations in a dataframe and map. The user then would be able to select cities and create personalized travel itinerary by visualizing directions map. 
 
+### Resources
+**Data retrieval:** [OpenWeatherMap.Org](https://openweathermap.org/), [Google Maps](https://mapsplatform.google.com/)
+
+**Tools:** Python, Jupyter Notebook, GMaps, [Citipy](https://github.com/wingchen/citipy), Requests Library, OpenWeather API, PANDAS, Matplotlib, Numpy, Statistics
+<br>
+
 ### Current Weather
 Using API requests of [Open Weather Map](https://openweathermap.org/), the current weather: maximum temperature, percent cloudiness, percent humidity, wind speed, and current description were determined for a list of cities generated with citipy script using random latitude and longitude values. 
 
-In [Weather_Database/](Weather_Database/), the dataframe for current weather statistics was created from a random list of cities and exportes as a csv file. 
+In [Weather_Database Folder](/Weather_Database/), the dataframe for current weather statistics was created from a random list of cities and exported as a csv file. 
+<br>
 <br>**Table 1.** Current Weather Database
 <br>![Table 1 image](/Weather_Database/Weather_Database_Sample.png)
 <br>Table 1 is a sample of the dataframe created from random list of cities and the current weather.
@@ -27,14 +34,8 @@ Using the user-specified data from previous section ([User-filtered data](/Vacat
 <br>![Image of Travel Map](/Vacation_Itinerary/WeatherPy_travel_map.png)
 <br>Image 2 shows a screenshot of travel map created in [/Vacation_Itinerary/ Folder](/Vacation_Itinerary/) from user traveling from Natal, Brazil to desired stops: Cabedelo, Brazil; Pitimbu, Brazil; and Olinda, Brazil.
 <br>
-<br>
 <br>**Image 3.** Vacation Hotel Marker Map
 <br>![Image 3 of Hotel Travel Map](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 <br>Image 3 shows the screenshot of map with the selected cities with markers with hotel information. 
 
-### Resources
-**Data retrieval:** [OpenWeatherMap.Org](https://openweathermap.org/), [Google Maps](https://mapsplatform.google.com/)
-
-**Tools:** Python, Jupyter Notebook, GMaps, [Citipy](https://github.com/wingchen/citipy), Requests Library, OpenWeather API, PANDAS, Matplotlib, Numpy, Statistics
-<br>
 
