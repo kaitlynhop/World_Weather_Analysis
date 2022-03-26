@@ -15,15 +15,18 @@ In [Weather_Database/](Weather_Database/), the dataframe for current weather sta
 
 ### Hotel Map
 With data from the [Table 1](Weather_Database/WeatherPy_Database.csv), an API requests of [Google Maps Places](https://developers.google.com/maps/documentation/places/web-service) was used to create a map with markers denoting hotels for travel locations that matched user specified temperature ranges. User input for preferred temperature range was used to generate the map of cities.
+<br>
 <br>**Image 1.** Vacation Search Map
 <br>![Image of Map](/Vacation_Search/WeatherPy_vacation_map.png)
 <br>Image 1. shows a screenshot of the vacation search map with markers detailing hotels, city, country, and current weather.
 
 ### Travel Map
 Using the user-specified data from previous section ([User-filtered data](/Vacation_Search/WeatherPy_vacation.csv)), four cities were selected and travel itinerary created using [Google Maps Directions](https://developers.google.com/maps/documentation/directions/web-service).
+<br>
 <br>**Image 2.** Vacation Travel Map
 <br>![Image of Travel Map](/Vacation_Itinerary/WeatherPy_travel_map.png)
 <br>Image 2 shows a screenshot of travel map created in [/Vacation_Itinerary/ Folder](/Vacation_Itinerary/) from user traveling from Natal, Brazil to desired stops: Cabedelo, Brazil; Pitimbu, Brazil; and Olinda, Brazil.
+<br>
 <br>
 <br>**Image 3.** Vacation Hotel Marker Map
 <br>![Image 3 of Hotel Travel Map](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
